@@ -1,7 +1,7 @@
 {
-    "name": "MODULE",
+    "name": "Artificial Intelligence",
     
-    "image": "ghcr.io/socstech/MODULE:latest",
+    "image": "ghcr.io/socstech/cmp2020:latest",
 
     //"build": { "dockerfile": "Dockerfile" },
 
